@@ -38,5 +38,7 @@ Screenshots:
 <placeholder>
 
 Other:
+Flash games on various websites like Newgrounds and ArmorGames have always been part of my childhood and inspire much of my view on games today. I'm excited to take this opportunity and try to recreate the feeling of playing a game in a browser all those years ago, while still being able to make it feel unique and personalize it with my own designs and ideas.
 
 About the Developer:
+I'm a second year Game Design and Development student with interest in programming, gaming, animating, and drawing. My skills include Photoshop, Maya, Unity, Visual Studio, and various other tools.
