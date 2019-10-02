@@ -27,8 +27,10 @@ Then move to creating bridges. Then limit how many blocks are available for buil
 **new threats**, like enemies that might have projectiles, or spikes.
 
 ## Screenshots:
-<placeholder>
-<placeholder>
+![alt text](https://github.com/jl2032/IGME-235/blob/master/reBlock%20Menu%201.png "Design concept for the starting menu in reBlock")
+
+
+![alt text](https://github.com/jl2032/IGME-235/blob/master/reBlock%20Level%201.png "Design concept of a level in reBlock")
 
 #### Other:
 Flash games on various websites like Newgrounds and ArmorGames have always been part of my childhood and inspire much of my view on games today. I'm excited to take this opportunity and try to recreate the feeling of playing a game in a browser all those years ago, while still being able to make it feel unique and personalize it with my own designs and ideas.
